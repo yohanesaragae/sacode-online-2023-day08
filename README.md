@@ -1,6 +1,6 @@
 # Belajar Membuat Banner Website
 
-## Link Demi Di GitHub Pages 
+## Link Dem0 Di GitHub Pages 
 
 Silahkan lihat melalui link berikut ini :
 https://yohanesaragae.github.io/sacode-online-2023-day08/
